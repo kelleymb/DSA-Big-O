@@ -1,0 +1,56 @@
+What if you change the input size?
+
+1. What is the Big O for this?
+    // a. Constant Time O(1)
+    // b. Linear time complexity O(n)
+
+2. Even or odd
+    // Constant Time O(1)
+    // only one computation being done
+
+3. Are you here?
+    // Polynomial time complexity O(n^k)
+    // O(n^2) - 2 levels of looping
+
+4. Doubler
+    // grows linearly, based upon array parameter
+    // Linear time complexity O(n)
+
+5. Naive search
+    // Linear time complexity O(n)
+
+6. Creating pairs
+    // Polynomial time complexity
+    // O(n^2) - 2 levels of looping
+
+7. Compute the sequence
+    // Constant Time O(1)
+    // 1st iteration --> push '0' to the end of the results array
+    // 2nd iteration --> push '1' to the end of the results array
+    // else --> push the next value in the sequence
+
+8. An efficient search
+    // Logarithmic time complexity O(log(n))
+    // cuts the problem size in half after each round of iteration
+
+9. Random element
+    // Constant time complexity O(1)
+
+10. What am I?
+    // Linear time complexity O(n)
+
+11. Tower of Hanoi
+    //
+
+
+12. Iterative version
+// Solve the drills 1 - 7 from your previous checkpoint (Recursion) iteratively
+
+13. Recursive Big O
+// Take your solutions from the recursive exercises that you completed in the 
+// previous checkpoint and identify the time complexities (big O) of each of them.
+
+
+14. Iterative Big O
+// Take your solutions from the iterative exercises today and identify the 
+// time complexities (big O) of each of them.
